@@ -1,5 +1,0 @@
-Create a .txt file and name it "name.bat" with only the lines below in it, replacing with your appropriate paths to the python executable and the path to the stockmailalert2.py file.
-
-start "path to python.exe" "path to stockmailalert2.py"
-
-pause
