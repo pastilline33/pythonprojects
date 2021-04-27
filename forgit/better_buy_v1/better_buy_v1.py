@@ -32,7 +32,7 @@ cardCode="000"
 browser = webdriver.Chrome()
 
 # Directs browser to url
-browser.get(item)
+browser.get(item_url)
 
 # Locates and Clicks BestBuy yellow add to cart button on item page
 addToCartButton = browser.find_element_by_class_name('add-to-cart-button')
